@@ -39,7 +39,7 @@ input, textarea {
 }
 
 textarea {
-    resize: none; /* Adiciona esta linha para desativar o redimensionamento */
+    resize: none;
 }
 
 button {
